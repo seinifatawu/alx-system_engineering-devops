@@ -1,1 +1,3 @@
-Shell navigation
+#!/bin/bash
+Shell navigation project
+
